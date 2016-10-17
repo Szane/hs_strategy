@@ -1,0 +1,14 @@
+{
+  "name": "hs_strategy",
+  "version": "1.0.0",
+  "description": "a strategy management project for the game Hearth Stone",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jizhe zhang",
+  "license": "",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
